@@ -1,4 +1,5 @@
 #Este programa diz bem vindo e pergunta seu nome.
+#Este programa é baseado no livro "Atomatize tarefas macantes com python"
 
 print ('Bem vindo!')
 print ('Qual o seu nome?') #pergunta o nome
