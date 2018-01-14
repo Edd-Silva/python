@@ -5,7 +5,7 @@ print ('Qual o seu nome?') #pergunta o nome
 meuNome = input()
 print ('É bom conhecer você,\n' + meuNome)#Concatena a string com a variavel meuNome
 print ('O comprimento do seu nome é:')
-print (len(meuNome))
+print (len(meuNome))# A função "len", conta a quantidade de caracteres existente no nome fornecido.
 print ('Qual a sua idade?')#pergunta sua idade
 minhaIdade = input()
 print ('Você terá, ' + str(int(minhaIdade) + 1) + ' em um ano.')
